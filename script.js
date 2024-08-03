@@ -1,13 +1,13 @@
 // Your web app's Firebase configuration
   var firebaseConfig = {
-    apiKey: "AIzaSyAXyI_4THjGKLasAEWKPFKulh_W5rkqxzM",
-  	authDomain: "esp32ledcontrol-46eac.firebaseapp.com",
-  	databaseURL: "https://esp32ledcontrol-46eac-default-rtdb.firebaseio.com",
-  	projectId: "esp32ledcontrol-46eac",
-  	storageBucket: "esp32ledcontrol-46eac.appspot.com",
-  	messagingSenderId: "843179908037",
-  	appId: "1:843179908037:web:390418637eb720d32689ac",
-  	measurementId: "G-KJMR5RENSS"
+    apiKey: "your api key here",
+  	authDomain: "your auth domain here",
+  	databaseURL: "your database url here",
+  	projectId: "your project id here",
+  	storageBucket: "your storage bucket here",
+  	messagingSenderId: "your messaging sender id here",
+  	appId: "your app id here",
+  	measurementId: "your measurement id here"
   };
   // Initialize Firebase
   firebase.initializeApp(firebaseConfig);
